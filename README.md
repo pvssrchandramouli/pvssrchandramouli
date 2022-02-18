@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pvssrchandramouli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Chandra Mouli P.V.S.S.R.
+Associate Professor and Head
+Department of Computer Science
+Central University of Tamil Nadu
+Thiruvarur
 
 <!---
 pvssrchandramouli/pvssrchandramouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
